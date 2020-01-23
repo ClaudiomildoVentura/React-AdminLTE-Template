@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
-import Header from './Component/default/Header';
-import Menu from './Component/default/Menu';
-import Footer from './Component/default/Footer';
+import React, { Component } from 'react'
+import Header from './Component/default/Header'
+import Menu from './Component/default/Menu'
+import Footer from './Component/default/Footer'
 
 class App extends Component {
   render() {
@@ -11,8 +11,7 @@ class App extends Component {
         <Menu/>
         <Footer/>
       </div>
-    );
+    )
   }
 }
-
-export default App;
+export default App
