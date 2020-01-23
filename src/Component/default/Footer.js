@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Footer extends Component {
     render() {
@@ -8,13 +8,11 @@ class Footer extends Component {
                     <div className="pull-right hidden-xs">
                         <b>Version</b> 2.4.0
                     </div>
-                    <strong>Copyright © 2014-2016 <a href="https://adminlte.io">Almsaeed Studio</a>.</strong> All rights
+                    <strong>Copyright © 2020 <a href="https://adminlte.io"></a>.</strong> All rights
                     reserved.
                 </footer>
-
             </div>
-        );
+        )
     }
 }
-
-export default Footer;
+export default Footer
