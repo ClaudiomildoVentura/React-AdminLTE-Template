@@ -3,7 +3,7 @@ import Header from './Component/default/Header'
 import Menu from './Component/default/Menu'
 import Footer from './Component/default/Footer'
 
-class App extends Component {
+export default class App extends Component {
   render() {
     return (
       <div>
@@ -14,4 +14,3 @@ class App extends Component {
     )
   }
 }
-export default App

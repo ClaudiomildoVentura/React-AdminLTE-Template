@@ -195,7 +195,7 @@ export default class Menu extends Component {
                   <li><a href="fake_url"><i className="fa fa-circle-o" /> Level One</a></li>
                 </ul>
               </li>
-              <li><a href="https://adminlte.io/docs"><i className="fa fa-book" /> <span>Documentation</span></a></li>
+              <li><a href="fake_url"><i className="fa fa-book" /> <span>Documentation</span></a></li>
               <li className="header">LABELS</li>
               <li><a href="fake_url"><i className="fa fa-circle-o text-red" /> <span>Important</span></a></li>
               <li><a href="fake_url"><i className="fa fa-circle-o text-yellow" /> <span>Warning</span></a></li>
@@ -204,7 +204,6 @@ export default class Menu extends Component {
           </section>
           {/* /.sidebar */}
         </aside>
-
       </div>
     )
   }
