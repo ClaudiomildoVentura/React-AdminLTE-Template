@@ -5,11 +5,7 @@ export default class Footer extends Component {
         return (
             <div>
                 <footer className="main-footer">
-                    <div className="pull-right hidden-xs">
-                        <b>Version</b> 2.4.0
-                    </div>
-                    <strong>Copyright © 2020 <a href="https://adminlte.io"></a>.</strong> All rights
-                    reserved.
+                    <strong>© 2020 <a href="https://adminlte.io"></a>.</strong> All rights reserved.
                 </footer>
             </div>
         )
